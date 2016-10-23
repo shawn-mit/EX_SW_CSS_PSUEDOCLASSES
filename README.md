@@ -1,4 +1,4 @@
-/*  EX_SW_CSS_PSUEDOCLASSES
+<!--  EX_SW_CSS_PSUEDOCLASSES
 Psuedo classes 
 
 
@@ -56,4 +56,4 @@ In the article element with the class n-child, add a 1 pixel border around every
 </article>
 
 
-*/
+-->
