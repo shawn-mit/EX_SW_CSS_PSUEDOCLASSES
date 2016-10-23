@@ -9,11 +9,11 @@
 .inline {
 	display: block;
 	margin: 25px 25px 25px 25px;
-	border-width: 1px;
-
+	border: 1px solid black;
 }
 
 	 
 .n-child section:nth-child(even)  {
-	border-spacing:  1px ;
+	border: 1px solid black;
 }
+
